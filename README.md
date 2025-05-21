@@ -1,16 +1,11 @@
-# contador_clicks
+# Contador_clicks
 
-A new Flutter project.
+Un proyecto básico en Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Esta aplicacion es una manera de empezar en mi mundo de aprender Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Se usa de una manera muy facil, el boton con el simbolo de más es para aumentar el contador, el boton de reset lo que hace es reiniciar el contador, y el que tiene el simbolo de menos es para decrementar el valor. Un dato importante es que si el contador solo dice 1, sera 1 click, pero si tiene 0 o 2 o más, dira clicks.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
